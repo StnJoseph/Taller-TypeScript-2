@@ -1,1 +1,1 @@
-# Taller-TypeScript-2
+Joseph Linares - 20111887
